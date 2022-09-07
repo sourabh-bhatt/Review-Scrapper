@@ -32,9 +32,10 @@ This project is build to scrap the user review on various products of flipkart.
 
 ## 💬 Connect With Me
 
-- **LinkedIn** - [https://www.linkedin.com/in/sourabh-bhatt/]
-- **Instagram** - https://www.instagram.com/_vishal.kumar07/
-
+- [LinkedIn](https://www.linkedin.com/in/sourabh-bhatt/)
+- [Instagram](https://www.instagram.com/sourabh__bhatt/)
+- [Twitter](https://twitter.com/Sourabh__Bhatt)
+- [YouTube](https://www.youtube.com/channel/UCg2GuImYOv5m47tgIjylWHA/videos)
 
 
 
