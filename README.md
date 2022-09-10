@@ -41,7 +41,7 @@ import requests
 from bs4 import BeautifulSoup as bs
 from urllib.request import urlopen as uReq
 ```
-</br>
+<br>
 
 ## 💬 Connect With Me
 
