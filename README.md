@@ -30,6 +30,16 @@ This project is build to scrap the user review on various products of flipkart.
 
 <br>
 
+<br>
+
+```python
+from flask import Flask, render_template, request,jsonify
+from flask_cors import CORS,cross_origin
+import requests
+from bs4 import BeautifulSoup as bs
+from urllib.request import urlopen as uReq
+```
+
 ## 💬 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/sourabh-bhatt/)
