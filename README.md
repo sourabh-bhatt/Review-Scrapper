@@ -51,7 +51,6 @@ from urllib.request import urlopen as uReq
 - [YouTube](https://www.youtube.com/channel/UCg2GuImYOv5m47tgIjylWHA/videos)
 
 
-
 # 💖 Deployment
 Entire project is hosted on [Heroku](https://flipkart-review-scrapperpy.herokuapp.com/).
 
